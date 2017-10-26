@@ -1,5 +1,6 @@
 {
   "require": {
+    "php": "~7.1",
     "php-heroku-client/php-heroku-client": "~1.2",
     "silex/silex": "^2.0"
   },
